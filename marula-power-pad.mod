@@ -1,0 +1,251 @@
+PCBNEW-LibModule-V1  Mon 08 Oct 2012 14:27:22 SAST
+# encoding utf-8
+Units deci-mils
+$INDEX
+HTSSOP-PWP-28
+$EndINDEX
+$MODULE HTSSOP-PWP-28
+Po 0 0 0 15 5072C6A6 00000000 ~~
+Li HTSSOP-PWP-28
+Sc 0
+AR 
+Op 0 0 0
+T0 -197 2362 600 600 0 120 N V 21 N "HTSSOP-PWP-28"
+T1 394 -2362 600 600 0 120 N I 21 N "VAL**"
+DS -2166 -1575 1968 -1575 150 21
+DS 1968 1575 -2166 1575 150 21
+DS 1968 -1575 1968 1575 150 21
+DS -2166 1575 -2166 -1575 150 21
+$PAD
+Sh "1" R 118 295 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -1812 1181
+.LocalClearance 79
+$EndPAD
+$PAD
+Sh "2" R 118 295 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -1556 1181
+.LocalClearance 79
+$EndPAD
+$PAD
+Sh "3" R 118 295 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -1300 1181
+.LocalClearance 79
+$EndPAD
+$PAD
+Sh "4" R 118 295 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -1044 1181
+.LocalClearance 79
+$EndPAD
+$PAD
+Sh "5" R 118 295 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -788 1181
+.LocalClearance 79
+$EndPAD
+$PAD
+Sh "6" R 118 295 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -532 1181
+.LocalClearance 79
+$EndPAD
+$PAD
+Sh "7" R 118 295 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -276 1181
+.LocalClearance 79
+$EndPAD
+$PAD
+Sh "8" R 118 295 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -20 1181
+.LocalClearance 79
+$EndPAD
+$PAD
+Sh "9" R 118 295 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 236 1181
+.LocalClearance 79
+$EndPAD
+$PAD
+Sh "10" R 118 295 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 492 1181
+.LocalClearance 79
+$EndPAD
+$PAD
+Sh "11" R 118 295 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 747 1181
+.LocalClearance 79
+$EndPAD
+$PAD
+Sh "12" R 118 295 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 1003 1181
+.LocalClearance 79
+$EndPAD
+$PAD
+Sh "13" R 118 295 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 1259 1181
+.LocalClearance 79
+$EndPAD
+$PAD
+Sh "14" R 118 295 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 1515 1181
+.LocalClearance 79
+$EndPAD
+$PAD
+Sh "15" R 118 295 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 1515 -1122
+.LocalClearance 79
+$EndPAD
+$PAD
+Sh "16" R 118 295 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 1259 -1122
+.LocalClearance 79
+$EndPAD
+$PAD
+Sh "17" R 118 295 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 1003 -1122
+.LocalClearance 79
+$EndPAD
+$PAD
+Sh "18" R 118 295 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 747 -1122
+.LocalClearance 79
+$EndPAD
+$PAD
+Sh "19" R 118 295 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 492 -1122
+.LocalClearance 79
+$EndPAD
+$PAD
+Sh "20" R 118 295 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 236 -1122
+.LocalClearance 79
+$EndPAD
+$PAD
+Sh "21" R 118 295 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -20 -1122
+.LocalClearance 79
+$EndPAD
+$PAD
+Sh "22" R 118 295 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -276 -1122
+.LocalClearance 79
+$EndPAD
+$PAD
+Sh "23" R 118 295 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -532 -1122
+.LocalClearance 79
+$EndPAD
+$PAD
+Sh "24" R 118 295 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -788 -1122
+.LocalClearance 79
+$EndPAD
+$PAD
+Sh "25" R 118 295 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -1044 -1122
+.LocalClearance 79
+$EndPAD
+$PAD
+Sh "26" R 118 295 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -1300 -1122
+.LocalClearance 79
+$EndPAD
+$PAD
+Sh "27" R 118 295 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -1556 -1122
+.LocalClearance 79
+$EndPAD
+$PAD
+Sh "28" R 118 295 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -1812 -1122
+.LocalClearance 79
+$EndPAD
+$PAD
+Sh "29" R 1969 1181 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -148 29
+$EndPAD
+$EndMODULE HTSSOP-PWP-28
+$EndLIBRARY
