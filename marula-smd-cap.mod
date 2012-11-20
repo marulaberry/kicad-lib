@@ -1,32 +1,97 @@
-PCBNEW-LibModule-V1  Fri 12 Oct 2012 21:17:18 SAST
+PCBNEW-LibModule-V1  Thu 15 Nov 2012 10:47:43 SAST
 # encoding utf-8
-Units deci-mils
+Units mm
 $INDEX
+C-4mm
 C-6MM
+SM1006-INDUCTOR
 $EndINDEX
+$MODULE C-4mm
+Po 0 0 0 15 50A384C5 00000000 ~~
+Li C-4mm
+Sc 0
+AR 
+Op 0 0 0
+T0 5 0.25 1 1 0 0.11 N V 21 N "C-4mm"
+T1 7 1 1 1 0 0.15 N I 21 N "VAL**"
+T2 -1.5 0 0.8 0.8 0 0.15 N V 21 N "+"
+DC 0 0 0 -2 0.15 21
+$PAD
+Sh "1" R 1 1 0 0 0
+Dr 0.75 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -0.55 0
+.SolderMask 0.15
+.LocalClearance 0.15
+$EndPAD
+$PAD
+Sh "2" C 1 1 0 0 0
+Dr 0.75 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 0.75 0
+.SolderMask 0.15
+.SolderPaste 0.15
+.LocalClearance 0.15
+$EndPAD
+$EndMODULE C-4mm
 $MODULE C-6MM
 Po 0 0 0 15 50786CBB 00000000 ~~
 Li C-6MM
 Sc 0
 AR 
 Op 0 0 0
-T0 1378 1181 600 600 0 120 N V 21 N "C-6MM"
-T1 197 -1772 600 600 0 120 N I 21 N "VAL**"
-DC 0 0 0 -1181 59 21
-T2 -197 0 600 600 0 59 N V 21 N "+"
+T0 3.50012 2.99974 1.524 1.524 0 0.3048 N V 21 N "C-6MM"
+T1 0.50038 -4.50088 1.524 1.524 0 0.3048 N I 21 N "VAL**"
+DC 0 0 0 -2.99974 0.14986 21
+T2 -0.50038 0 1.524 1.524 0 0.14986 N V 21 N "+"
 $PAD
-Sh "1" R 472 472 0 0 0
+Sh "1" R 1.19888 1.19888 0 0 0
 Dr 0 0 0
 At SMD N 00888000
 Ne 0 ""
-Po -788 0
+Po -2.00152 0
 $EndPAD
 $PAD
-Sh "2" R 472 472 0 0 0
+Sh "2" R 1.19888 1.19888 0 0 0
 Dr 0 0 0
 At SMD N 00888000
 Ne 0 ""
-Po 787 0
+Po 1.99898 0
 $EndPAD
 $EndMODULE C-6MM
+$MODULE SM1006-INDUCTOR
+Po 0 0 0 15 50A4AC2C 00000000 ~~
+Li SM1006-INDUCTOR
+Sc 0
+AR 
+Op 0 0 0
+T0 -2.5 4 0.8 0.8 0 0.11 N V 21 N "SM1006-INDUCTOR"
+T1 -3 -2 1 1 0 0.15 N I 21 N "VAL**"
+DS -9 -7 2.5 -7 0.15 21
+DS 2.5 -7 2.5 3 0.15 21
+DS 2.5 3 -9 3 0.15 21
+DS -9 3 -9 -7 0.15 21
+$PAD
+Sh "1" R 3.6 8.5 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -6.4 -2
+.SolderMask 0.15
+.SolderPaste 0.15
+.LocalClearance 0.15
+$EndPAD
+$PAD
+Sh "2" R 3.6 8.5 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0 -2
+.SolderMask 0.15
+.SolderPaste 0.15
+.LocalClearance 0.15
+$EndPAD
+$EndMODULE SM1006-INDUCTOR
 $EndLIBRARY
